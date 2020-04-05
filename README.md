@@ -10,11 +10,12 @@
 
 ## How to Use
 * Download the train_images from [here](https://raw.githubusercontent.com/sebastianlapuschkin/lrp_toolbox/master/data/MNIST/train_images.npy)
-* For sample demonstration a clipped image is reconstructed from RBM trained.
+* For sample demonstration a clipped image is reconstructed from trained RBM.
+* The notebook is ready to run.
 
 ## For learning
 * To learn the concepts please watch the [videos](https://www.youtube.com/watch?v=lXrFX3vjtjQ&list=PL3pGy4HtqwD2kwldm81pszxZDJANK3uGV&index=135)
-* The notation is also similar.
+* The notations are also similar.
 
 
 
