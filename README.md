@@ -1,5 +1,5 @@
 # Restricted-Boltzmann-Machines-using-NumPy
-
+![Model Image](rbm.png)
 ## Implementation Details
 * The implemented RBM consist of 2 layers with 784 visible units and 256 hidden units.
 * Trained using K-Contrastive Divergence with k = 1.
