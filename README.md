@@ -14,8 +14,8 @@
 
 ## For learning
 * To learn the concepts please watch the [videos](https://www.youtube.com/watch?v=lXrFX3vjtjQ&list=PL3pGy4HtqwD2kwldm81pszxZDJANK3uGV&index=135)
-* The notation is similar also.
+* The notation is also similar.
 
 
 
-### Have Fun Learning :smiley:
+### Have Fun! Learning :smiley:
