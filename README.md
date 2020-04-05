@@ -10,7 +10,7 @@
 
 ## How to Use
 * Download the train_images from [here](https://raw.githubusercontent.com/sebastianlapuschkin/lrp_toolbox/master/data/MNIST/train_images.npy)
-* For sample demonstration a clipped image is reconstructed from trained RBM.
+* For sample demonstration a clipped image is reconstructed using trained RBM.
 * The notebook is ready to run.
 
 ## For learning
