@@ -1,4 +1,4 @@
-# Restricted-Boltzmann-Machines-using-NumPy
+# Restricted Boltzmann Machines from scratch
 ![Model Image](rbm.png)
 ## Implementation Details
 * The implemented RBM consist of 2 layers with 784 visible units and 256 hidden units.
