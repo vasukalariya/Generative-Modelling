@@ -6,7 +6,8 @@
 * The RBM can be modified as per the use.
 * It is built solely from scratch using NumPy.
 * It is trained for MNIST Reconstruction and learning its probability distribution.
-* Trained on 20000 images.
+* Trained on 60000 images.
+* It is modular in nature so you could change the parameters as per your choice.
 
 ## How to Use
 * Download the train_images from [here](https://raw.githubusercontent.com/sebastianlapuschkin/lrp_toolbox/master/data/MNIST/train_images.npy)
