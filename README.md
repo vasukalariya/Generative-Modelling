@@ -1,4 +1,4 @@
-# Restricted Boltzmann Machines from scratch
+# Restricted Boltzmann Machines
 ![Model Image](rbm.png)
 ## Implementation Details
 * The implemented RBM consist of 2 layers with 784 visible units and 256 hidden units.
@@ -13,6 +13,10 @@
 * Download the train_images from [here](https://raw.githubusercontent.com/sebastianlapuschkin/lrp_toolbox/master/data/MNIST/train_images.npy)
 * For sample demonstration a clipped image is reconstructed using trained RBM.
 * The notebook is ready to run.
+
+# Generative Adversarial Networks
+
+# Variational Autoencoders
 
 ## For learning
 * To learn the concepts please watch the [videos](https://www.youtube.com/watch?v=lXrFX3vjtjQ&list=PL3pGy4HtqwD2kwldm81pszxZDJANK3uGV&index=135)
