@@ -1,5 +1,5 @@
 # Restricted Boltzmann Machines
-![Model Image](rbm.png)
+![RBM Image](rbm.png)
 ## Implementation Details
 * The implemented RBM consist of 2 layers with 784 visible units and 256 hidden units.
 * Trained using K-Contrastive Divergence with k = 1.
@@ -15,9 +15,9 @@
 * The notebook is ready to run.
 
 # Generative Adversarial Networks
-
+![GAN Image](gan.jpg)
 # Variational Autoencoders
-
+![VAE Image](vae.png)
 ## For learning
 * To learn the concepts please watch the [videos](https://www.youtube.com/watch?v=lXrFX3vjtjQ&list=PL3pGy4HtqwD2kwldm81pszxZDJANK3uGV&index=135)
 * The notations are also similar.
